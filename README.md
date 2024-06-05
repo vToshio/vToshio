@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Toshio!
 
-- Student and IT Temp.
+- Student and IT Trainee.
 - Currently studying <strong>Information Systems</strong> at [FHO | Uniararas - Brazil](https://www.fho.edu.br)
 - 🎯 Focusing my studies in: Data Structures using C, Basic WEB Development, Operating Systems and Computer Networks Basics
 

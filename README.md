@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vtoshio_) 
 
 ## Stats
-![vToshio's GitHub stats](https://github-readme-stats.vercel.app/api?username=vToshio&show_icons=true&theme=radical)
+![vToshio's GitHub stats](https://github-readme-stats.vercel.app/api?username=vToshio&show_icons=true&theme=catppuccin_mocha)
 
 ## Technologies I'm Currently Studying:
 <div style='display: inline-block'>

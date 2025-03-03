@@ -1,37 +1,22 @@
-## About Me 🧑‍💻 
-*\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
+# 👨‍💻 About me
+- My name is **Vinícius Toshio**, but you can call me by **Toshio** or **Toshi** - feel free to chose! 🥰
 
+- I'm a 5th-period Information Systems at 💻 at [FHO | Uniararas](http://fho.edu.br), Brazil 📍
 
+- Currently I'm working as an IT Intern at Artur Nogueira's City Hall, gaining some hands-on experience in tech support and problems resolution 🖥️🖨️🛠️
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+## 🚀 What am I learning?
+- **Backend & API Development** with **Flask** & **FastAPI** 🐍
+- **Software Engineering** principles and best pratices 🔧
+- **Data Science** and **Databases** 🌐
 
-from world import Visitor
+## 🛠️ Languages and Tools
 
-Class Dev():
-    def __init__(self) -> None:
-        self.name = 'Vinícius Toshio'
-        self.languages = ['pt_BR', 'en_US']
-        self.code = ['C', 'Python', 'HTML', 'CSS', 'JavaScript']
-        self.frameworks = ['Bootstrap', 'Flask']
-    
-    def say_hi(self, name:str) -> None:
-        prinf(f'Hi {name}, nice to meet you! Thanks for passing by!')
+[![My Skills](https://skillicons.dev/icons?i=c,python,flask,fastapi,js,html,css,bootstrap,vscode,sqlite,git,github,postman,obsidian,windows,linux)](https://skillicons.dev)
 
-me = Dev()
-me.say_hi(Visitor.name)
-```
+## 📧 Find me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vtoshio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtoshio2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vtoshio_) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vtoshio_/)
-
-## Stats:
-
-<div style="display: inline; text-align: center; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=vToshio&hide=contribs,prs&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vToshio&layout=compact&theme=dark"/>
-</div>
-

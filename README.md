@@ -12,7 +12,7 @@
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,flask,fastapi,js,html,css,bootstrap,vscode,sqlite,git,github,postman,obsidian,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,flask,fastapi,js,html,css,bootstrap,vscode,sqlite,git,github,postman,windows,linux)](https://skillicons.dev)
 
 ## 📧 Find me at
 

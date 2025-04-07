@@ -6,13 +6,13 @@
 - Currently I'm working as an IT Intern at Artur Nogueira's City Hall, gaining some hands-on experience in tech support and problems resolution 🖥️🖨️🛠️
 
 ## 🚀 What am I learning?
-- **Backend & API Development** with **Flask** & **FastAPI** 🐍
+- **Backend & API Development** with **Flask**, **FastAPI** & **Django** 🐍
 - **Software Engineering** principles and best pratices 🔧
 - **Data Science** and **Databases** 🌐
 
 ## 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,flask,fastapi,js,html,css,bootstrap,vscode,sqlite,git,github,postman,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,flask,fastapi,django,js,html,css,bootstrap,vscode,git,github,postman,windows,linux)](https://skillicons.dev)
 
 ## 📧 Find me at
 

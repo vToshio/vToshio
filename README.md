@@ -3,7 +3,7 @@
 
 - I'm a 5th-period Information Systems at 💻 at [FHO | Uniararas](http://fho.edu.br), Brazil 📍
 
-- Currently I'm working as an IT Intern at Artur Nogueira's City Hall, gaining some hands-on experience in tech support and problems resolution 🖥️🖨️🛠️
+- Currently I'm working as a Ruby Developer Intern at [ESL Sistemas](http://eslsistemas.com.br) 🚚♦️
 
 ## 🚀 What am I learning?
 - **Backend & API Development** with **Flask**, **FastAPI** & **Django** 🐍
